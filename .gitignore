@@ -1,0 +1,5 @@
+*.rar
+save.*
+*.p
+**/__pychache__/*
+.ipynb_checkpoints/
