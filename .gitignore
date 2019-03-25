@@ -1,5 +1,7 @@
 *.rar
 save.*
 *.p
-**/__pychache__/*
 .ipynb_checkpoints/
+dog-project/bottleneck_features/
+dog-project/saved_models/
+**/__pycache__/
