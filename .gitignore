@@ -5,3 +5,4 @@ save.*
 dog-project/bottleneck_features/
 dog-project/saved_models/
 **/__pycache__/
+face_generation/data/
